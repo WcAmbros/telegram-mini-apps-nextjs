@@ -3,12 +3,10 @@
 This template demonstrates how developers can implement a single-page application on the Telegram
 Mini Apps platform using the following technologies and libraries:
 
-- [React](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [TON Connect](https://docs.ton.org/develop/dapps/ton-connect/overview)
 - [@tma.js SDK](https://docs.telegram-mini-apps.com/packages/tma-js-sdk)
 - [Telegram UI](https://github.com/Telegram-Mini-Apps/TelegramUI)
-- [Vite](https://vitejs.dev/)
 
 > The template was created using [npm](https://www.npmjs.com/). Therefore, it is required to use
 > it for this project as well. Using other package managers, you will receive a corresponding error.
